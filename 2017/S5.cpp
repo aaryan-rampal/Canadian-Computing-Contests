@@ -43,8 +43,6 @@ vector<pair <int, int>> findAllStations(vector<pair <int, int>> passengerAndLine
 
 int main() 
 {
-    freopen("C:\\Users\\Owner\\Desktop\\IO\\senior_data\\s5\\1.in", "r", stdin);
-    freopen("C:\\Users\\Owner\\Desktop\\broletsgo.txt", "w", stdout);
     ios::sync_with_stdio(0);
     cin.tie(0);
 
