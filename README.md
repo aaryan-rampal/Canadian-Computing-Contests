@@ -1,4 +1,4 @@
-#Canadian Computing Contests
+# Canadian Computing Contests
 
 https://cemc.uwaterloo.ca/contests/past_contests.html#ccc
 
